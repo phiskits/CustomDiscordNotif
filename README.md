@@ -3,7 +3,6 @@ Have a sound play when you receive a new message a Discord
 
 This program will watch a specfic point of your screen and play a sound once this point changes to a specific color.
 The points, trigger colors and location of the sound (or sounds) to be played, can be configured under /config/base_config.xml in the release folder.
-The settings in that config are to be set by the following:
 In order to use this program, measure the pixel position of the red notification badge that discord shows on your task bar if you get a new message and use that to configure the file (a screenshot program like "greenshot" or PowerToys' "Screen Ruler" that shows the pixel coordinates works well here)
 
 ---NOTICE---
