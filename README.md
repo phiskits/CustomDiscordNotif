@@ -18,7 +18,7 @@ path to the folder in which your custom sounds are. The sound files HAVE to be i
 * **screen_index**:
 the index of the screen to watch for color changes at. if you only have one monitor, this will be likely "0"
 * **screen_pos_x**:
-the pixel position of the chosen screen to watch for changes at (from right to left)
+the pixel position of the chosen screen to watch for changes at (from left to right)
 * **screen_pos_y**:
 the pixel position of the chosen screen to watch for changes at (from top to bottom)
 * **color_notif_on**:
