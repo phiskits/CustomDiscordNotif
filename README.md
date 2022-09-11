@@ -11,6 +11,9 @@ In order to use this program, measure the pixel position of the red notification
 * the colors are configured to match the discord taskbar icon behaviours. In theory, this works with any pixel on the screen that changes, and is not bound to discord in particular
 * if you need to put the program somewhere else, like on your desktop, do NOT move the actual .exe-file. instead, create a shortcut of it and move that one. the whole release-folder can be anywhere on your machine, though
 
+---CONFIG---
+
+
 * **folderpath**:
 path to the folder in which your custom sounds are. The sound files HAVE to be in a .wav format in order to be played. If there are multiple sounds, it will pick a random one from the folder. 
 * **screen_index**:
